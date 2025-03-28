@@ -7,7 +7,6 @@ clear; clc; close all;
 % Mn = 1.4949
 
 % Akus Chhabra
-% 500970974
 
 %% Parameter Definitions
 
