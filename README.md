@@ -153,5 +153,21 @@
         <td>Exit Velocity, U<sub>e</sub></td>
         <td>3071 m/s</td>
       </tr>
+      <tr>
+        <td>Fuel-to-Air Ratio</td>
+        <td>0.0276</td>
+      </tr>
+    <tr>
+        <td>Air Mass Flow Rate, ṁ<sub>a</sub></td>
+        <td>110 kg/s</td>
+      </tr>
+    <tr>
+        <td>Fuel Mass Flow Rate, ṁ<sub>f</sub></td>
+        <td>3.03 kg/s</td>
+      </tr>
+    <tr>
+        <td>Exit Area, A<sub>e</sub></td>
+        <td>3.35 m<sup>2</sup></td>
+      </tr>
   </table>
 </div>
