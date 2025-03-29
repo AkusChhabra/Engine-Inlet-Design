@@ -14,7 +14,6 @@
   <p align="center">
     <img src="https://github.com/AkusChhabra/EngineInletDesign/blob/main/InletRendition.png">
   </p>
-  <h2> Results of Parametric Analysis </h2>
   <p>Refer to the diagram above for visual reference of parameter values. </p>
   <table align="center" style="margin: 0px auto;">
       <tr>
@@ -79,6 +78,80 @@
       <tr>
         <td>&pi;<sub>rec</sub></td>
         <td>0.793</td>
+      </tr>
+  </table>
+  <h2> Results of Parametric Analysis </h2>
+  <p>
+    The following diagram illustrates the key positions along the engine that will be determined using parametric analysis.
+  </p>&nbsp
+  <p>
+    <a>&nbsp
+      <img src="https://github.com/user-attachments/assets/8eee9d03-eba6-4076-8771-444aa7a47e64">
+    </a>
+  </p>&nbsp
+  <table align="center" style="margin: 0px auto;">
+      <tr>
+      <th>Parameter</th>
+      <th>Value</th>
+      </tr>
+      <tr>
+        <td>Inlet Velocity, U<sub>a</sub></td>
+        <td>944.1 m/s</td>
+      </tr>
+      <tr>
+        <td>Inlet Area, A<sub>i</sub></td>
+        <td>1.00 m<sup>2</sup></td>
+      </tr>
+      <tr>
+        <td>T<sub>o<sub>2</sub></sub></td>
+        <td>660.4 K</td>
+      </tr>
+      <tr>
+        <td>P<sub>o<sub>2</sub></sub></td>
+        <td>283.4 kPa</td>
+      </tr>
+      <tr>
+        <td>T<sub>o<sub>3</sub></sub></td>
+        <td>1314 K</td>
+      </tr>
+        <td>P<sub>o<sub>3</sub></sub></td>
+        <td>2494 kPa</td>
+      </tr>
+      <tr>
+        <td>T<sub>o<sub>4</sub></sub></td>
+        <td>2500 K</td>
+      </tr>
+      <tr>
+        <td>P<sub>o<sub>4</sub></sub></td>
+        <td>2444 kPa</td>
+      </tr>
+      <tr>
+        <td>T<sub>o<sub>5</sub></sub></td>
+        <td>2750 K</td>
+      </tr>
+      <tr>
+        <td>P<sub>o<sub>5</sub></sub></td>
+        <td>763.5 kPa</td>
+      </tr>
+      <tr>
+        <td>T<sub>o<sub>6</sub></sub></td>
+        <td>2750 K</td>
+      </tr>
+      <tr>
+        <td>P<sub>o<sub>6</sub></sub></td>
+        <td>748.2 kPa</td>
+      </tr>
+      <tr>
+        <td>T<sub>o<sub>7</sub></sub></td>
+        <td>2750 K</td>
+      </tr>
+      <tr>
+        <td>P<sub>o<sub>7</sub></sub></td>
+        <td>748.2 kPa</td>
+      </tr>
+      <tr>
+        <td>Exit Velocity, U<sub>e</sub></td>
+        <td>3071 m/s</td>
       </tr>
   </table>
 </div>
